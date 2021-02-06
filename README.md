@@ -1,5 +1,5 @@
 # Hey, There! <img src="https://iili.io/fuVnBs.gif" width="30px">
-My nickname is **Jordaar**, I am just another guy who enjoys to code during my free time. I am from India, currently living in Gujarat.
+My nickname is **Jordaar**, I am just another guy who enjoys to code during my free time. I am from India, and I love coding discord bots.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -10,3 +10,11 @@ My nickname is **Jordaar**, I am just another guy who enjoys to code during my f
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code_Insiders-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Base-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Base-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/Jordaar/Jordaar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordaar&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/Jordaar/Jordaar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
+</a>
