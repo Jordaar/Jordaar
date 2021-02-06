@@ -12,7 +12,5 @@ My nickname is **Jordaar**, I am just another guy who enjoys to code during my f
 ![](https://img.shields.io/badge/Data_Base-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-<a href="https://github.com/Jordaar/Jordaar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jordaar&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+
 ![Jordaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&theme=blueberry)
