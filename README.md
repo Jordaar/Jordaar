@@ -2,4 +2,11 @@
 My nickname is **Jordaar**, I am just another guy who enjoys to code during my free time. I am from India, currently living in Gujarat.
 
 ## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)  ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Library-Discord.js-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-Visual_Studio_Code_Insiders-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Data_Base-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Data_Base-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-Discord.js-informational?style=flat&logo=discord&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual_Studio_Code_Insiders-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Base-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Base-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
