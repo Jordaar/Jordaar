@@ -1,5 +1,5 @@
 # Hey, There! <img src="https://iili.io/fuVnBs.gif" width="30px">
-My nickname is **Jordaar**, I am just another guy who enjoys to code during my free time. I am from India, and I love coding discord bots.
+My nickname is **Jordaar**, I am the guy who enjoys to code during my free time. I am from India, and I love coding discord bots.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
