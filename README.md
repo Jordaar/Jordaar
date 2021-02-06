@@ -13,6 +13,16 @@ My nickname is **Jordaar**, I am just another guy who enjoys to code during my f
 
 ## &#x1f4c8; GitHub Stats
 
-![[Top Lanuages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jordaar)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Jordaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&hide=issues&theme=ayu-mirage)
+
+<!-- Actual text -->
+
+You can find me on [![Discord][1.2]][1].
+
+<!-- Icons -->
+
+[1.2]: https://cdn.icon-icons.com/icons2/2428/PNG/512/discord_black_logo_icon_147145.png
+
+<!-- Links to your social media accounts -->
+
+[1]: https://google.com
