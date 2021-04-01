@@ -11,10 +11,10 @@ My nickname is **Jordaar**, I am the guy who enjoys to code during my free time.
 ![](https://img.shields.io/badge/Data_Base-MongoDB-informational?style=flat&logo=mongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Base-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats
+## &#x1f4c8; My Stats
 
 ![Jordaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&hide=issues&theme=ayu-mirage)
 
-### What I am doing currently?
+---
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8nhka3gwpvyqwanoukbs442fk&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
