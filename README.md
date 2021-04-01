@@ -14,3 +14,5 @@ My nickname is **Jordaar**, I am the guy who enjoys to code during my free time.
 ## &#x1f4c8; GitHub Stats
 
 ![Jordaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&hide=issues&theme=ayu-mirage)
+
+[![Jordaar.#5819](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/477649356191825920?simple=true)](https://discordextremelist.xyz/en-NZ/users/477649356191825920)
