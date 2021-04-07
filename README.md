@@ -16,5 +16,5 @@ My nickname is **Jordaar**, I am the guy who enjoys to code during my free time.
 ![Jordaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&hide=issues&theme=ayu-mirage)
 
 ---
-
+## 🎵 Listening 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8nhka3gwpvyqwanoukbs442fk&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
