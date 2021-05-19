@@ -19,4 +19,4 @@ My nickname is **Jordaar**, I am a guy who enjoys to code during my free time. I
 
 ## 🎵 Listening 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8nhka3gwpvyqwanoukbs442fk&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=8nhka3gwpvyqwanoukbs442fk&cover_image=true&theme=novatorem)](https://github.com/Jordaar)
