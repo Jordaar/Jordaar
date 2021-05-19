@@ -15,7 +15,7 @@ My nickname is **Jordaar**, I am a guy who enjoys to code during my free time. I
 
 ## &#x1f4c8; My Stats
 
-![Jordaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&hide=issues&theme=dark&hide_border=true&title_color=2bbc8a)
+![Jordaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&hide=issues&hide_border=true&title_color=2bbc8a&icon_color=2bbc8a&bg_color=0D1117)
 
 ## 🎵 Listening 
 
