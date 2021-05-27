@@ -17,8 +17,4 @@ Yes, I am Jordaar
 
 ## ✨ My Status
 
-[![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=8nhka3gwpvyqwanoukbs442fk&cover_image=true&theme=novatorem)](https://github.com/Jordaar)
-
-----
-
-[![Discord Status](https://discord.c99.nl/widget/theme-4/477649356191825920.png)](https://discord.com)
+[![Spotify Status](https://spotify-github-profile.vercel.app/api/view?uid=8nhka3gwpvyqwanoukbs442fk&cover_image=true&theme=novatorem)](https://github.com/Jordaar) [![Discord Status](https://discord.c99.nl/widget/theme-4/477649356191825920.png)](https://discord.com)
