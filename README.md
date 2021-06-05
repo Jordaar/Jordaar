@@ -1,5 +1,5 @@
 # Hey, There! <img src="https://iili.io/fuVnBs.gif" width="30px">
-Yes, I am Jordaar
+Yes, I am Jordaar. Currently working on [@TKE Bot](https://discord.gg/Vgd5vMn)
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
