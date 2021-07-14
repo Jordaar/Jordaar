@@ -14,8 +14,6 @@ Yes, I am Jordaar. Currently working on [@TKE Bot](https://discord.gg/Vgd5vMn).
 ## &#x1f4c8; My Stats
 
 ![Jordaar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jordaar&show_icons=true&hide=issues&hide_border=true&title_color=2bbc8a&icon_color=2bbc8a&bg_color=0D1117&text_color=ffffff)
-![Jordaar's Github contribution](https://api.scripts-bot.cf/github-contribution?user=Jordaar&theme=githubDark)
-
 
 ## ✨ My Status
 
