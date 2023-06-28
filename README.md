@@ -12,7 +12,7 @@
   <img src="https://dev.discordprofiles.me/badge/spotify/477649356191825920)">
   <img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>
   -->
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Jordaar&theme=dracula&bg_color=00000000&color=2bbc8a&line=2bbc8a&point=00000000&area=true&hide_border=true"><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jordaar&theme=dracula&bg_color=00000000&color=2bbc8a&line=2bbc8a&point=00000000&area=true&hide_border=true"><br><br>
   <img width="370px" src="https://github-readme-stats.vercel.app/api?username=Jordaar&custom_title=In+Data+We+Trust&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=2bbc8a&text_color=878787&icon_color=2bbc8a&cache_seconds=1800" />
   <img width="370px" src="https://github-readme-streak-stats.herokuapp.com/?user=Jordaar&background=00000000&hide_border=true&stroke=878787&ring=2bbc8a&fire=2bbc8a&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" /><br>
 </p>
